@@ -6,7 +6,7 @@
 * Course: Open Source Software (Linux Administration)
 * College: VIT Bhopal University
 
---
+---
 
 ## Project Overview
 
@@ -133,3 +133,5 @@ This project provided hands-on experience with system-level scripting and open-s
 * https://survey.stackoverflow.co/2023
 * https://spdx.org/licenses/GPL-2.0-only.html
 * https://github.com/git/git
+
+---
