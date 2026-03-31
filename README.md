@@ -1,12 +1,12 @@
 ## OSS Capstone Project: Open Source Audit Toolkit
 
-**Name:** Ashutosh Pandey
-**Reg No:** 24BAI10250
-**Slot:** A13
-**Course:** Open Source Software (Linux Administration)
-**College:** VIT Bhopal University
+* Name: Ashutosh Pandey
+* Reg No: 24BAI10250
+* Slot: A13
+* Course: Open Source Software (Linux Administration)
+* College: VIT Bhopal University
 
----
+--
 
 ## Project Overview
 
